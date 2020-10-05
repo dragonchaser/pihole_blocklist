@@ -1,6 +1,11 @@
-9gag.com
-lolpics.se
-artige.no
-funnyjunk.com
-imgur.com
-imgurinc.com
+# productivity
+#
+# this list blocks sites I usually spent too much time on
+# overall result: productivity improvment :)
+ 
+*.9gag.com
+*.lolpics.se
+*.artige.no
+*.funnyjunk.com
+*.imgur.com
+*.imgurinc.com
