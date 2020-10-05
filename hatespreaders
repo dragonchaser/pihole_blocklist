@@ -1,5 +1,7 @@
-bild.de
-m.bild.de
+# hatespreaders list
+# this blocklist blocks far right publications and tabloids
+# 
+*.bild.de
 foxnews.com
 fox.com
 breitbart.com
